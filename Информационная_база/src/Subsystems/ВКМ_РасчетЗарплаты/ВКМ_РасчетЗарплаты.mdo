@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="25805d9f-4715-4df4-9a9e-3ef9c1fd33b9">
+  <name>ВКМ_РасчетЗарплаты</name>
+  <synonym>
+    <key>ru</key>
+    <value>Расчет зарплаты</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <content>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления</content>
+  <content>ChartOfCalculationTypes.ВКМ_ДополнительныеНачисления</content>
+  <content>ChartOfCalculationTypes.ВКМ_Удержания</content>
+  <content>CalculationRegister.ВКМ_ОсновныеНачисления</content>
+  <content>CalculationRegister.ВКМ_ДополнительныеНачисления</content>
+  <content>CalculationRegister.ВКМ_Удержания</content>
+  <content>InformationRegister.ВКМ_УсловияОплатыСотрудников</content>
+  <content>Catalog.ВКМ_Подразделение</content>
+  <content>Catalog.ВКМ_ФизическиеЛица</content>
+  <content>Catalog.ВКМ_ГрафикРаботы</content>
+  <content>InformationRegister.ВКМ_ГрафикРаботы</content>
+  <content>AccumulationRegister.ВКМ_ВыполненныеСтрудникомРаботы</content>
+  <content>DataProcessor.ВКМ_ЗаполнениеГрафика</content>
+  <content>Document.ВКМ_НачислениеЗарплаты</content>
+  <content>Document.ВКМ_НачислениеФиксированнойПремии</content>
+  <content>AccumulationRegister.ВКМ_ВзаиморасчетыССотрудниками</content>
+  <content>Document.ВКМ_ВыплатаЗарплаты</content>
+  <content>Document.ВКМ_ГрафикОтпусков</content>
+  <content>Role.ВКМ_ДобавлениеИзменениеЗарарботнойПлаты</content>
+  <content>Report.ВКМ_ВыработкаСпециалистов</content>
+  <content>Report.ВКМ_АнализВыставленныхАктов</content>
+  <content>Report.ВКМ_РасчетыССотрудниками</content>
+  <content>AccumulationRegister.ВКМ_ОтпускаСотрудников</content>
+  <content>Report.ВКМ_РасходЗапланированныхОтпусков</content>
+  <content>DataProcessor.ВКМ_СменитьПользователя</content>
+  <content>DataProcessor.ВКМ_МассовоеСозданиеАктов</content>
+</mdclass:Subsystem>

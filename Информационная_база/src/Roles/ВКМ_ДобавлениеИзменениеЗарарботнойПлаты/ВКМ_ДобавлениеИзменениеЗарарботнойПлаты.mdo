@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Role xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="1e0f27e4-4e70-4ac7-8939-5d9f1c1bcdc0">
+  <name>ВКМ_ДобавлениеИзменениеЗарарботнойПлаты</name>
+  <synonym>
+    <key>ru</key>
+    <value>Добавление изменение зарарботной платы (кадровик)</value>
+  </synonym>
+</mdclass:Role>

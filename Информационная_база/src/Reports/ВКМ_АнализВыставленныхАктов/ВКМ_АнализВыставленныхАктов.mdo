@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a44a4d55-c8bc-4e9b-883a-be7d7bca3e38">
+  <producedTypes>
+    <objectType typeId="dd485aff-9168-475f-88b7-3b462241589d" valueTypeId="d7f81d92-42d4-4e76-b347-f4f1bc9cfa37"/>
+    <managerType typeId="09b15b17-e9e6-4d95-bb07-1d27ffeb5585" valueTypeId="a2a03722-7e07-4334-a0ef-78395b3416df"/>
+  </producedTypes>
+  <name>ВКМ_АнализВыставленныхАктов</name>
+  <synonym>
+    <key>ru</key>
+    <value>Анализ выставленных актов</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>Report.ВКМ_АнализВыставленныхАктов.Form.ФормаОтчета</defaultForm>
+  <mainDataCompositionSchema>Report.ВКМ_АнализВыставленныхАктов.Template.ОсновнаяСхемаКомпоновкиДанных</mainDataCompositionSchema>
+  <forms uuid="869e2d88-059f-43d5-bba9-4f2876b7d5b6">
+    <name>ФормаОтчета</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма отчета</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <templates uuid="b790e09c-32d0-480f-be40-b11be4872998">
+    <name>ОсновнаяСхемаКомпоновкиДанных</name>
+    <synonym>
+      <key>ru</key>
+      <value>Основная схема компоновки данных</value>
+    </synonym>
+    <templateType>DataCompositionSchema</templateType>
+  </templates>
+</mdclass:Report>
